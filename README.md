@@ -37,8 +37,8 @@ Your submission will be evaluated based on:
 - Fork this repository to your GitHub account.
 - Complete your analysis and create the frontend dashboard.
 - Deploy the dashboard to a hosting platform.
-- Update this [README.md](README.md) file with the URL to your live dashboard.
-- **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
+- Update this [README.md](README.md) file with the URL to your live dashboard. The url is https://srishtiiimadaan.pythonanywhere.com/dashboard/
+- - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - vedantp@mapup.ai
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
